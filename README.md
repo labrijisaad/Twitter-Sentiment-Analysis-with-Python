@@ -1,7 +1,7 @@
 # `Twitter Sentiment Analysis` with Python 🐍 & NLP 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74627083/155904110-08462633-0094-4115-8e21-c42f1575a59b.jpg" />
+  <img src="https://user-images.githubusercontent.com/74627083/155904147-d9ded832-9a40-4b92-bfe0-2288b8612333.jpg" />
 </p>
 
 - We aim in this project to `analyze the sentiment of tweets` provided from the Sentiment140 dataset by `developing a machine learning sentiment analysis model` involving the use of classifiers. The performance of these classifiers is then evaluated using accuracy and F1 scores.
