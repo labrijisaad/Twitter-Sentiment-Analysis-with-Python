@@ -1,4 +1,4 @@
-# `Twitter Sentiment Analysis` with Python 🐍 & NLP 
+# `Twitter Sentiment Analysis` with Python 🐍 & NLP 📙
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74627083/155904389-1383accb-1571-4f5b-ac33-9d9c0101f441.jpg" />
