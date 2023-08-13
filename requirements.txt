@@ -1,0 +1,11 @@
+# Python 3.9
+numpy
+pandas
+regex
+seaborn
+wordcloud
+matplotlib
+nltk
+scikit-learn
+wordnet
+notebook
