@@ -14,7 +14,7 @@ We wield the power of classifiers to craft an effective sentiment analysis model
 
 ## **Getting Started 🏁**
 
-To get up and running with the project, follow these steps:
+Follow these simple steps to set up and start working on the project:
 
 1. **Clone the Repository**:
    ```bash
@@ -26,33 +26,35 @@ To get up and running with the project, follow these steps:
    cd Twitter-Sentiment-Analysis-with-Python
    ```
    
-3. **Ensure Python 3.9 is Installed**. The required packages are listed in the requirements.txt file.
+3. **Check Python Version**: Ensure that you have Python 3.9 installed. You can find the required packages in the `requirements.txt` file.
 
-4. **Create a Virtual Environment** (highly recommended to maintain project isolation):
+4. **Create a Virtual Environment** (recommended for project isolation):
    ```bash
    python3 -m venv venv
    ```
    
 5. **Activate the Virtual Environment**:
 
-   - macOS/Linux:
+   - For macOS/Linux:
      ```bash
      source venv/bin/activate
      ```
    
-   - Windows:
+   - For Windows:
      ```bash
      venv\Scripts\activate
      ```
 
-6. **Install Dependencies** listed in requirements.txt:
+6. **Install Dependencies** from `requirements.txt`:
    ```bash
    pip install -r requirements.txt
    ```
 
-7. **Place the Dataset Files** within the data/ directory.
+7. **Download the Dataset**:
+   Download the dataset from [Sentiment140 Dataset](https://drive.google.com/file/d/19IeqXU96-kDt6wy1wTNyhWrIw1jbK2Kx/view?usp=sharing) and place the CSV file in a newly created `data` directory within the project.
 
-8. **Fire Up the Jupyter Notebook Server**:
+8. **Launch Jupyter Notebook**:
+   Start the Jupyter Notebook server:
    ```bash
    jupyter notebook
    ```
